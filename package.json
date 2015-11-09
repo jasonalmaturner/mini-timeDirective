@@ -1,0 +1,23 @@
+{
+  "name": "mini-time-directive",
+  "version": "1.0.0",
+  "description": "mini-timeDirective ==================",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonalmaturner/mini-timeDirective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonalmaturner/mini-timeDirective/issues"
+  },
+  "homepage": "https://github.com/jasonalmaturner/mini-timeDirective#readme"
+}
